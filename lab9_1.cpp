@@ -1,7 +1,7 @@
 #include<iostream>
 #include<iomanip> //For using setw(), setprecision(), ...
 using namespace std;
-
+ds
 int main(){
 	double loan,interestRate,payment ;
 	cout << "Enter initial loan: ";
